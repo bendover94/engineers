@@ -2,8 +2,11 @@ body {
     font-family: Helvetica, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #D6D6D6;
   }
+
+body {
+    background-color: #D6D6D6;
+}
   
   h1 {
     text-align: center;
