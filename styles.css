@@ -5,12 +5,12 @@ body {
   }
 
 body {
-    background-color: #D6D6D6;
+    background-color: #626262;
 }
   
   h1 {
     text-align: center;
-    color: blue;
+    color: rgb(121, 54, 7);
   }
   
   .center-image {
