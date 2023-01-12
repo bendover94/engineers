@@ -2,6 +2,7 @@ body {
     font-family: Helvetica, sans-serif;
     margin: 0;
     padding: 0;
+    background-color: #D6D6D6;
   }
   
   h1 {
@@ -9,3 +10,7 @@ body {
     color: blue;
   }
   
+  .center-image {
+    display: block;
+    margin: 0 auto;
+}
