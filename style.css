@@ -6,22 +6,6 @@ body {
 }
 
 
-/* .headline {
-  text-align: center;
-  color: rgb(179, 76, 2);
-}
-
-.big_Text {
-  text-align: left;
-  text-decoration: underline;
-  color: rgb(48, 48, 48);
-}
-
-.small_Text {
-  text-align: left;
-  color: rgb(0, 0, 0);
-} */
-
 .wrapper {
   padding: 10px 25px;
 }
@@ -42,15 +26,14 @@ body {
   }
 
   .big_Text {
-    text-align: left;
+    text-align: start;
     font-weight: bold;
-    color: rgb(48, 48, 48);
-    font-size: 1.1em;
+    color: rgb(0, 0, 0);
+    font-size: 1.2em;
   }
   
   .small_Text {
-    text-align: left;
-    text-align: justify;
+    text-align: start;
     color: rgb(0, 0, 0);
   }
 }
@@ -60,16 +43,16 @@ body {
   .headline {
   text-align: center;
   color: rgb(179, 76, 2);
-  font-size: 1.3em;
+  font-size: 1.5em;
   }
   .big_Text {
-  text-align: left;
-  text-decoration: underline;
-  color: rgb(48, 48, 48);
+  text-align: start;
+  font-weight: bold;
+  color: rgb(0, 0, 0);
   }
 
   .small_Text {
-  text-align: left;
+  text-align: start;
   color: rgb(0, 0, 0);
   }
 
