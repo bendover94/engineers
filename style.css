@@ -13,17 +13,17 @@ body {
   text-align: left;
   color: rgb(179, 76, 2);
   font-size: 1.5em;
-  padding: 20px;
+  
   }
 
 .bold_Text {
-  text-align: center;
+  text-align: left;
   font-weight: bold;
   color: rgb(0, 0, 0);
 }
 
 .small_Text {
-  text-align: center;
+  text-align: left;
   color: rgb(0, 0, 0);
 }
 
