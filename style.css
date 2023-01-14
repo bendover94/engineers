@@ -24,11 +24,10 @@ body {
   font-size: 1.5em;
   }
 
-  .big_Text {
+  .bold_Text {
     text-align: start;
     font-weight: bold;
     color: rgb(0, 0, 0);
-    font-size: 1.2em;
     padding:20px
   }
   
