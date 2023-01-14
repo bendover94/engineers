@@ -34,7 +34,8 @@ body {
 }
 
 .bottom-image {
-  width: 30%;
-  /* display: block; */
-  margin: 0 auto;
+  width: 25%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
