@@ -29,11 +29,13 @@ body {
     font-weight: bold;
     color: rgb(0, 0, 0);
     font-size: 1.2em;
+    padding:20px
   }
   
   .small_Text {
     text-align: start;
     color: rgb(0, 0, 0);
+    padding:20px;
   }
 }
 
@@ -48,11 +50,13 @@ body {
   text-align: start;
   font-weight: bold;
   color: rgb(0, 0, 0);
+  padding:20px;
   }
 
   .small_Text {
   text-align: start;
   color: rgb(0, 0, 0);
+  padding:20px;
   }
 
 }
