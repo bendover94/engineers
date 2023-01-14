@@ -6,10 +6,21 @@ body {
 }
 
 
-.headline {
+/* .headline {
   text-align: center;
   color: rgb(179, 76, 2);
 }
+
+.big_Text {
+  text-align: left;
+  text-decoration: underline;
+  color: rgb(48, 48, 48);
+}
+
+.small_Text {
+  text-align: left;
+  color: rgb(0, 0, 0);
+} */
 
 .wrapper {
   padding: 10px 25px;
@@ -28,8 +39,18 @@ body {
   text-align: center;
   color: rgb(179, 76, 2);
   font-size: 1.5em;
-}
+  }
 
+  .big_Text {
+    text-align: left;
+    text-decoration: underline;
+    color: rgb(48, 48, 48);
+  }
+  
+  .small_Text {
+    text-align: left;
+    color: rgb(0, 0, 0);
+  }
 }
 
 @media screen and (max-width: 360px) {
@@ -38,6 +59,16 @@ body {
   text-align: center;
   color: rgb(179, 76, 2);
   font-size: 1.3em;
-}
+  }
+  .big_Text {
+  text-align: left;
+  text-decoration: underline;
+  color: rgb(48, 48, 48);
+  }
+
+  .small_Text {
+  text-align: left;
+  color: rgb(0, 0, 0);
+  }
 
 }
