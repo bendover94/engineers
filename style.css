@@ -10,9 +10,10 @@ body {
 }
 
 .headline {
-  text-align: center;
+  text-align: left;
   color: rgb(179, 76, 2);
   font-size: 1.5em;
+  padding: 20px;
   }
 
 .bold_Text {
