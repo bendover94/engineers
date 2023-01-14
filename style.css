@@ -36,6 +36,5 @@ body {
 .bottom-image {
   width: 25%;
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 0 auto;
 }
