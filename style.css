@@ -45,10 +45,16 @@ body {
   background-color: #d1d1d1;
   padding: 10px;
 }
-.grid-item {
+.grid-item-text {
   background-color: #d1d1d1;
   border: 1px solid rgba(0, 0, 0, 0.8);
   padding: 20px;
   font-size: 1em;
+  text-align: center;
+}
+.grid-item-pic {
+  background-color: #d1d1d1;
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  padding: 20px;
   text-align: center;
 }
